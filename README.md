@@ -1,4 +1,4 @@
-##USB Rubber Ducky Miscellaneous
+##USB Rubber Ducky - Miscellaneous
 --------
 Repository for payloads and other things.
 
