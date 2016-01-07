@@ -1,8 +1,8 @@
-##USB Rubber Ducky - Miscellaneous
---------
+## USB Rubber Ducky - Miscellaneous
+-----
 Repository for payloads and other things.
 
-###Disclaimer
+### Disclaimer
 
 * __Legal__:
 This repository is only for __educational__ purposes and __ethical__ hacking. Use it at your own responsibility. Damages or legal problems caused are the responsibility of the user.
@@ -16,7 +16,19 @@ This repository is subject under the following license:
 
  More Info: [Here](https://creativecommons.org/licenses/by-sa/3.0/ "Legal Description")
 
-###About
+### Payloads:
+
+
+| Payload 1 | |
+| :------------------------ | :------------------------------- | 
+| Function:                 | Internet Denial of Service (DOS) |
+| Operative System:         | Windows 7/8 (Possibly 10)        |
+| Approximate Running Time: | 20 seg                           |
+
+
+
+
+### About
 This repository was created by: __@codexlynx__.
 
 * Twitter: [https://twitter.com/codexlynx](https://twitter.com/codexlynx)
